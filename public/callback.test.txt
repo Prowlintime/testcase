@@ -1,0 +1,126 @@
+stdClass Object
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [title] => Vardas
+                    [description] => 
+                    [type] => text
+                    [key] => 9pp4f
+                    [custom_key] => 
+                    [value] => Robert
+                )
+
+            [1] => stdClass Object
+                (
+                    [title] => Telefonas
+                    [description] => 
+                    [type] => phone
+                    [key] => 67vle
+                    [custom_key] => 
+                    [value] => +37064746236
+                )
+
+            [2] => stdClass Object
+                (
+                    [title] => El paštas
+                    [description] => 
+                    [type] => email
+                    [key] => 8emuv
+                    [custom_key] => 
+                    [value] => Prowlintime@gmail.com
+                )
+
+            [3] => stdClass Object
+                (
+                    [title] => URL
+                    [description] => 
+                    [type] => hidden
+                    [key] => 49h9
+                    [custom_key] => 
+                    [value] => https://0nr60cpk.paperform.co/
+                )
+
+            [4] => stdClass Object
+                (
+                    [title] =>  Pageidaujamos šalys
+                    [description] => 
+                    [type] => choices
+                    [key] => 687lo
+                    [custom_key] => 
+                    [value] => Array
+                        (
+                            [0] => Graikija
+                            [1] => Turkija
+                            [2] => Ispanija
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [title] => Keliautoju skaičius
+                    [description] => 
+                    [type] => number
+                    [key] => aidn2
+                    [custom_key] => 
+                    [value] => 123
+                )
+
+            [6] => stdClass Object
+                (
+                    [title] => Kiti pageidavimai
+                    [description] => 
+                    [type] => text
+                    [key] => 33dd2
+                    [custom_key] => 
+                    [value] => 123
+                )
+
+        )
+
+    [form_id] => 60c897d15eedd90c3b2bebb6
+    [slug] => 0nr60cpk
+    [submission_id] => 60c9df1fdb454941d32b4374
+    [created_at] => 2021-06-16 11:23:11
+    [ip_address] => 5.20.236.9
+    [charge] => stdClass Object
+        (
+            [products] => Array
+                (
+                )
+
+            [summary] => 
+            [discount] => 0
+            [discounted_subscriptions] => Array
+                (
+                )
+
+            [coupon] => 
+            [total] => 0
+            [tax] => 0
+            [tax_percentage] => 0
+            [processing_fee] => 0
+            [authorize] => 
+            [receipt_email] => 
+        )
+
+    [device] => stdClass Object
+        (
+            [type] => desktop
+            [device] => WebKit
+            [platform] => Windows
+            [browser] => Chrome
+            [embedded] => 
+            [url] => https://0nr60cpk.paperform.co/
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 YaBrowser/21.5.3.742 Yowser/2.5 Safari/537.36
+            [utm_source] => 
+            [utm_medium] => 
+            [utm_campaign] => 
+            [utm_term] => 
+            [utm_content] => 
+            [ip_address] => 5.20.236.9
+        )
+
+)

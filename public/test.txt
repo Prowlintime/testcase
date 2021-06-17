@@ -1,0 +1,27 @@
+Array
+(
+    [0] => Array
+        (
+            [title] =>  Pageidaujamos šalys
+            [value] => Array
+                (
+                    [0] => Graikija
+                    [1] => Egiptas
+                    [2] => Gruzija
+                )
+
+        )
+
+    [1] => Array
+        (
+            [title] => Keliautoju skaičius
+            [value] => 321
+        )
+
+    [2] => Array
+        (
+            [title] => Kiti pageidavimai
+            [value] => 321
+        )
+
+)
